@@ -1,0 +1,22 @@
+{
+    "name": "doyoque/nacho",
+    "description": "Nacho, nacho man. I want to be a nacho man",
+    "license": "MIT",
+    "keywords": ["nacho"],
+    "authors": [
+        {
+            "name": "Abiyoga Bayu Primadi",
+            "email": "abiyogabayuprimadi@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Doyoque\\Nacho\\": "src"
+        }
+    }
+}
+
